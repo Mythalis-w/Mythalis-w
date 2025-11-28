@@ -1,4 +1,5 @@
 ## Hi there 👋
+![我的图片](https://github.com/Mythalis-w/Mythalis-w/raw/main/image.png)
 
 <!--
 **Mythalis-w/Mythalis-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
