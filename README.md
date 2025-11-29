@@ -1,7 +1,6 @@
 # Mythalis —— 人工智能专业本科生
 
 
-
 <!-- 毛玻璃效果背景图 -->
 <div align="center">
   <div style="position:relative;max-width:800px;width:100%;height:300px;margin:20px auto;border-radius:15px;overflow:hidden;box-shadow:0 5px 15px rgba(0,0,0,0.2);">
@@ -14,16 +13,6 @@
       <p style="margin:10px 0 0;font-size:1.3rem;text-shadow:0 1px 5px rgba(0,0,0,0.3);">**知识链接大脑，数算代替思考**</p>
     </div>
   </div>
-</div>
-
-
-<div align="center">
-
-<div style="background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/image/1.png'); background-size: cover; background-position: center; border-radius: 15px; padding: 100px 40px; margin: 20px auto; max-width: 800px;">
-  <h2 style="margin:0;font-size:3rem;color:white;text-shadow:0 2px 10px rgba(0,0,0,0.3);">🌟WELCOME!</h2>
-  <p style="margin:10px 0 0;font-size:1.3rem;color:white;text-shadow:0 1px 5px rgba(0,0,0,0.3);"><strong>知识链接大脑，数算代替思考</strong></p>
-</div>
-
 </div>
 
 
@@ -50,6 +39,6 @@
 
 # 📫 Connect With Me
 
-[<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站">](https://space.bilibili.com/399349067?spm_id_from=333.337.0.0)   [<img src="https://img.shields.io/badge/知乎-00BB2D?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎">](https://www.zhihu.com/people/--55-44-54-84)    [<img src="https://img.shields.io/badge/GitHub-Mythalis--w-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Mythalis-w)
+[<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站">](https://space.bilibili.com/399349067?spm_id_from=333.337.0.0)                [<img src="https://img.shields.io/badge/知乎-00BB2D?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎">](https://www.zhihu.com/people/--55-44-54-84)              [<img src="https://img.shields.io/badge/GitHub-Mythalis--w-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Mythalis-w)
 
 
