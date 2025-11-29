@@ -18,11 +18,15 @@
 
 ### 欢迎来到我的个人主页
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
-</picture>
+<!-- 贪吃蛇动画 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/profile-snake-contrib/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<!-- 或者暗色版本 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="snake dark" />
+</div>
 
 ## 📚 项目展示
 
