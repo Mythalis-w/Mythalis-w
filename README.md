@@ -19,9 +19,9 @@
 ### 欢迎来到我的个人主页
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/master/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/master/dist/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/master/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
 </picture>
 
 ## 📚 项目展示
