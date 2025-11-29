@@ -18,11 +18,8 @@
 
 ### 欢迎来到我的个人主页
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
-</picture>
+## 🐍 贡献记录
+![GitHub Snake](https://github.com/Mythalis-w/Mythalis-w/blob/output/github-contribution-grid-snake.svg)
 
 ## 📚 项目展示
 
@@ -33,5 +30,5 @@
 - **开发工具**: Git, Docker, VS Code, PyCharm
 
 ## 📊 GitHub 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mythalis-w&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mythalis-w&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythalis-w&layout=compact&theme=radical)
