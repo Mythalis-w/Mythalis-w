@@ -11,8 +11,8 @@
     margin: 30px auto;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 ">
-    <!-- 背景图片 - 需要替换为你的GitHub图片链接 -->
-    <img src="https://github.com/Mythalis-w/Mythalis-w/blob/main/image/1.png" 
+    <!-- 背景图片 - 使用原始图片链接 -->
+    <img src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/image/1.png" 
          alt="背景图片"
          style="
             position: absolute;
@@ -39,7 +39,6 @@
         color: white;
         width: 80%;
         max-width: 500px;
-        height: auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -56,7 +55,6 @@
 
 </div>
 <!-- 毛玻璃效果区域 - 结束 -->
-
 ## Hi there 👋 I'm Mythalis
 
 ![Profile Banner](https://github.com/Mythalis-w/Mythalis-w/raw/main/image.png)
