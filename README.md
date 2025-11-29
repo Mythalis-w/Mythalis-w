@@ -18,9 +18,20 @@
 
 ### 欢迎来到我的个人主页
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mythalis-w)
+<picture>
+  <!-- 深色模式显示 -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  
+  <!-- 浅色模式显示 -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  
+  <!-- 默认显示 -->
+  <img alt="github-snake" 
+       src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 ## 📚 项目展示
 
