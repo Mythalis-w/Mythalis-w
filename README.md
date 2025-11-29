@@ -1,13 +1,6 @@
 # Mythalis
-## Mythalis-w
 
 **人工智能专业本科生**
-
-📍 Tianjin, China  
-🕒 UTC +08:00  
-🌐 https://space.bilibili.com/393456067
-
----
 
 <!-- 毛玻璃效果背景图 -->
 <div align="center">
