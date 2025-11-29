@@ -19,9 +19,15 @@
 ### 欢迎来到我的个人主页
 
 <picture>
+<<<<<<< HEAD
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mythalis-w/Mythalis-w/main/assets/github-snake-dark.svg" />
+=======
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Mythalis-w/Mythalis-w/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/Mythalis-w/Mythalis-w/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Mythalis-w/Mythalis-w/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+>>>>>>> 52b47402d421d59ddd23e894582043fa7b20f8e7
 </picture>
 
 ## 📚 项目展示
