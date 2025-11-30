@@ -53,4 +53,12 @@
 
 [<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站">](https://space.bilibili.com/399349067?spm_id_from=333.337.0.0)                [<img src="https://img.shields.io/badge/知乎-00BB2D?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎">](https://www.zhihu.com/people/--55-44-54-84)              [<img src="https://img.shields.io/badge/GitHub-Mythalis--w-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Mythalis-w)
 
+# Statistics
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mythalis-w&color=2764E8&label=Profile+Views)](https://github.com/Mythalis-w)
+[![Followers](https://img.shields.io/github/followers/Mythalis-w?color=1E8C3E&label=Followers&style=flat)](https://github.com/Mythalis-w)
+[![Repositories](https://img.shields.io/badge/Repositories-0-8A2BE2?style=flat)](https://github.com/Mythalis-w?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat)](https://github.com/Mythalis-w)
+
+---
 
