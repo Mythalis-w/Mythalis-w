@@ -22,9 +22,10 @@
 # 👋 About Me :
 
 **Mythalis-w**（or  **MxTwinkle_w**）
-### 🎯 First-year undergraduate student majoring in artificial intelligence
-### 🔭 Proficient in advanced mathematics and artificial intelligence
-### 🌱 learning Python and C.
+
+- ### 🎯 First-year undergraduate student majoring in artificial intelligence
+- ### 🔭 Proficient in advanced mathematics and artificial intelligence
+- ### 🌱 learning Python and C.
 
 
 ## 🛠️ 技术栈
