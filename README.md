@@ -43,7 +43,7 @@
 ## 📊 GitHub 统计
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mythalis-w=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mythalis-w's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mythalis-w)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
