@@ -36,13 +36,17 @@
 
 ## 🛠️ 技术栈
 
-- **编程语言**: Python, JavaScript, Java, C++
-- **人工智能**: 机器学习, 深度学习, 计算机视觉
-- **开发工具**: Git, Docker, VS Code, PyCharm
+- **programming language**: Python, C
+- **AI**: Machine learning, deep learning, computer vision
+- **Development Tools**: Git, Docker, VS Code, PyCharm
 
 ## 📊 GitHub 统计
-![Stats](https://github-readme-stats.vercel.app/api?username=Mythalis-w&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythalis-w&layout=compact&theme=radical)
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?Mythalis-w=joway&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+
 
 # 📫 Connect With Me
 
