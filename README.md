@@ -17,7 +17,7 @@
 
 
 # Welcome to my personal homepage !
-
+# 🐍 GitHub Contributions Calendar
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mythalis-w/Mythalis-w/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mythalis-w/Mythalis-w/blob/output/github-snake.svg" />
