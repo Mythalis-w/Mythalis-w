@@ -69,7 +69,7 @@
 
 # 📫 Connect With Me
 
-[<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站">](https://space.bilibili.com/399349067?spm_id_from=333.337.0.0)          &nbsp;      [<img src="https://img.shields.io/badge/知乎-00BB2D?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎">](https://www.zhihu.com/people/--55-44-54-84)      &nbsp;        [<img src="https://img.shields.io/badge/GitHub-Mythalis--w-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Mythalis-w)  &nbsp;     [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1445364676950097995/1445364677638098979)
+[<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站">](https://space.bilibili.com/399349067?spm_id_from=333.337.0.0)          &nbsp;      [<img src="https://img.shields.io/badge/知乎-00BB2D?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎">](https://www.zhihu.com/people/--55-44-54-84)      &nbsp;        [<img src="https://img.shields.io/badge/GitHub-Mythalis--w-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Mythalis-w)  &nbsp;     [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1445364676950097995/1445364677638098979)  &nbsp;   [![Gmail](https://img.shields.io/badge/📧_发送邮件-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythalis.w@gmail.com)
 
 # Statistics
 
