@@ -1,4 +1,4 @@
-# Mythalis —— 人工智能专业本科生
+# 🎓 Mythalis ——  First-year AI undergraduate | Interested in Machine Learning, Computer Vision, and Autonomous Systems.
 
 
 <!-- 毛玻璃效果背景图 -->
@@ -36,9 +36,14 @@
 
 ## 🛠️ 技术栈
 
-- **programming language**: Python, C
-- **AI**: Machine learning, deep learning, computer vision
-- **Development Tools**: Git, Docker, VS Code, PyCharm
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![C](https://img.shields.io/badge/C-Language-lightgrey)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Starting-yellow)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Interest-blueviolet)
+![Git](https://img.shields.io/badge/Git-Enabled-orange)
+![Docker](https://img.shields.io/badge/Docker-Using-2496ED)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
 
 ## 📊 GitHub 统计
 
