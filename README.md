@@ -16,7 +16,13 @@
 </div>
 
 
-# Welcome to my personal homepage !
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5500&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Welcome+to+my+personal+homepage+!;Hello+World" alt="Typing SVG" />
+  </a>
+</div>
+
+
 # 🐍 GitHub Contributions Calendar
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mythalis-w/Mythalis-w/blob/output/github-snake-dark.svg" />
