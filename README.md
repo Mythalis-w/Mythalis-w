@@ -35,16 +35,18 @@
 
 
 ## 🛠️ 技术栈
-
+- **programming language**:
 ![Python](https://img.shields.io/badge/Python-3.10-blue) 
 ![C](https://img.shields.io/badge/C-Language-lightgrey) 
 <br>
 
+- **AI**:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner-green)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Starting-yellow)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Interest-blueviolet)
 <br>
 
+- **Development Tools**:
 ![Git](https://img.shields.io/badge/Git-Enabled-orange)
 ![Docker](https://img.shields.io/badge/Docker-Using-2496ED)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
