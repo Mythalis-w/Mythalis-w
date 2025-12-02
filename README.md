@@ -77,6 +77,9 @@
 [![Followers](https://img.shields.io/github/followers/Mythalis-w?color=1E8C3E&label=Followers&style=flat)](https://github.com/Mythalis-w)
 [![Repositories](https://img.shields.io/badge/Repositories-0-8A2BE2?style=flat)](https://github.com/Mythalis-w?tab=repositories)
 [![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=flat)](https://github.com/Mythalis-w)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Mythalis-w.Mythalis-w" />
+</p>
 
 ---
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
