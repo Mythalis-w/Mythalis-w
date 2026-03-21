@@ -10,7 +10,6 @@
     <!-- 文字层 -->
     <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:white;text-align:center;padding:20px;">
       <h2 style="margin:0;font-size:5rem;text-shadow:0 2px 10px rgba(0,0,0,0.3);">🌟WELCOME!</h2>
-      <p style="margin:10px 0 0;font-size:1.3rem;text-shadow:0 1px 5px rgba(0,0,0,0.3);">**知识链接大脑，数算代替思考**</p>
     </div>
   </div>
 </div>
